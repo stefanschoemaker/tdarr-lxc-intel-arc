@@ -14,7 +14,7 @@ apt install intel-media-va-driver vainfo
 
 
 # Install tdarr LXC
-- execute following command in the Proxmox terminal
+- execute following command in the Proxmox terminal and follow the on-screen instructions
 ```bash
 bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/ct/tdarr.sh)"
 ```
