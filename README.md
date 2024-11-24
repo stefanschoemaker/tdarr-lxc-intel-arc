@@ -10,6 +10,9 @@ apt install intel-media-va-driver vainfo
 ```
 - Check if av1 support is enabled using the command `vainfo`
 
+![Screenshot 2024-11-24 195431](https://github.com/user-attachments/assets/c233cbe2-d330-48f5-bfb1-64eaa89c07a2)
+
+
 # Install tdarr LXC
 - execute following command in the Proxmox terminal
 ```bash
