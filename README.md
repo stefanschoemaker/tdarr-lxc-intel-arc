@@ -77,7 +77,7 @@ reboot now
     Video Transcode Customisable
 - Inputs
   
-|                     | Value
+| Option              | Value
 | ---                 | ---
 | codecs_to_exclude   | av1
 | cli                 | handbrake
